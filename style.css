@@ -1,0 +1,14 @@
+body{
+    background: rgb(218,232,228);
+    background: linear-gradient(90deg, rgba(218,232,228,1) 35%, rgba(202,211,222,1) 100%);
+background-size: cover;
+background-position: center;
+}
+.form{
+    display: block;
+    text-align: center;
+}
+input[type=submit]{
+    width: 5rem;
+    margin-bottom: 1rem;
+}
